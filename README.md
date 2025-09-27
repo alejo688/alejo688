@@ -1,33 +1,19 @@
 ### Hola soy Alejandro Ramirez 👋
 
-Soy un ingeniero de software con 9 años de experiencia en el desarrollo de software, he trabajado en diversos roles como lo son Web Developer, Front-End Developer, Mobile Developer y Data Enginner con diversas tecnologias, actualmente mi enfoque principal son el desarrollo de soluciones tecnologicas usando la tecnologia de .Net con lenguaje C#.
+Soy **Ingeniero de Software** con más de **12 años de experiencia** desarrollando soluciones en diferentes sectores como **salud, telecomunicaciones, financiero, aseguradoras y e-commerce**.  
 
-He trabajado en diversas sectores como lo son salud, telecomunicaciones, aplicaciones empresariales, bancario, e-commerce y aseguradoras.
+Actualmente me enfoco en el **desarrollo de soluciones backend y de datos** utilizando principalmente **.NET (C#), SQL Server y herramientas de BI**.  
+A lo largo de mi carrera también he trabajado en proyectos de **aplicaciones móviles, front-end y data engineering**.  
 
-## Tecnologias que actualmente manejo
-
-- C#
-- Asp MVC
-- SQL Server
-- (SSRS) Reporting Services
-- (SSIS) Integration Services
-- Power BI
-- JavaScript
-- Git
-<!--
-- Angular
-- React
-- Azure DevOps
-- Docker
-- Redus
-- Vue
--->
+### 🛠️ Tecnologías principales
+- **Lenguajes & Frameworks:** C#, ASP.NET MVC, JavaScript  
+- **Bases de datos & BI:** SQL Server, SSRS, SSIS, Power BI  
+- **Herramientas:** Git, Azure DevOps
 
 ## Redes sociales
 
 Sigueme en redes sociales, donde comparto mis ideas o mis experiencias que he tenido en el mundo del desarrollo de software:
 
-- [Web Personal](https://alejo688.com/)
 - [Linkedin](https://www.linkedin.com/in/javier-alejandro-ramirez-garc%C3%ADa-587a5241/)
 - [Twitter](https://alejo688.com/)
 <!-- - [YouTube](https://www.youtube.com/channel/UCI8P_SyeeNP4iZu2DjmLhbw) -->
