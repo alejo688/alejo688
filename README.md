@@ -10,9 +10,7 @@ A lo largo de mi carrera también he trabajado en proyectos de **aplicaciones m�
 - **Bases de datos & BI:** SQL Server, SSRS, SSIS, Power BI  
 - **Herramientas:** Git, Azure DevOps
 
-## Redes sociales
-
-Sigueme en redes sociales, donde comparto mis ideas o mis experiencias que he tenido en el mundo del desarrollo de software:
+### 🌍 Conéctemos
 
 - [Linkedin](https://www.linkedin.com/in/javier-alejandro-ramirez-garc%C3%ADa-587a5241/)
 - [Twitter](https://alejo688.com/)
