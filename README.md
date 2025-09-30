@@ -12,8 +12,8 @@ A lo largo de mi carrera también he trabajado en proyectos de **aplicaciones m�
 
 ### 🌍 Conéctemos
 
-- [Linkedin](https://www.linkedin.com/in/javier-alejandro-ramirez-garc%C3%ADa-587a5241/)
-- [Twitter](https://alejo688.com/)
+- [Linkedin](https://www.linkedin.com/in/jrramirezdev/)
+- [X](https://x.com/JrRamirezDev)
 <!-- - [YouTube](https://www.youtube.com/channel/UCI8P_SyeeNP4iZu2DjmLhbw) -->
 
 <!--
